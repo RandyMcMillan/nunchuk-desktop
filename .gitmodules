@@ -1,3 +1,4 @@
 [submodule "contrib/libnunchuk"]
 	path = contrib/libnunchuk
-	url = https://github.com/nunchuk-io/libnunchuk.git
+	url = https://github.com/randymcmillan/libnunchuk.git
+	branch = 17cd3eea69717c0bbb0e4824785b38a40f11bd1d
