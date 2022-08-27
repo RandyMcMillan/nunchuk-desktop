@@ -28,6 +28,7 @@ Follow these steps to build the application for your platform.
 	git clone https://github.com/nunchuk-io/nunchuk-desktop
 	cd nunchuk-desktop
 	git submodule update --init --recursive
+	git -C contrib/libnunchuk submodule update --init --recursive
 ```
 **Build [contrib/libnunchuk](https://github.com/nunchuk-io/libnunchuk)**
 
